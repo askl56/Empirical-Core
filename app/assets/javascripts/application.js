@@ -32,3 +32,5 @@
 
 //= require porthole
 //= require crazy-egg
+
+//= require guiders
